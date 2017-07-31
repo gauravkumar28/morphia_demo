@@ -1,12 +1,4 @@
-+++
-date = "2015-03-17T15:36:56Z"
-title = "Quick Tour"
-[menu.main]
-  parent = "Getting Started"
-  identifier = "Quick Tour"
-  weight = 2
-  pre = "<i class='fa'></i>"
-+++
+
 
 # Quick Tour
 
